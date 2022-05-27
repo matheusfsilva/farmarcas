@@ -1,10 +1,3 @@
-## Busca de repositorios
-
-digite user do gitHub e busque os repositorios
-
-documentação datalhada em /Document
-figma (telas, components, prototipo) e PDF(telas)
-
 ## Available Scripts
 
 In the project directory, you can run:

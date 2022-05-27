@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  background-color:  #FAFAFA;
+  font-family: Lato, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.MuiButtonBase-root{
+  text-transform: none !important;
+}
+
+.MuiPaper-root{
+  border-radius: 8px !important;
+}
+
+a{
+  text-decoration: none;
+}
